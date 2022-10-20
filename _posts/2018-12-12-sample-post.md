@@ -1,6 +1,6 @@
 ---
 title: Sample Post - Markdown Syntax
-commentable: flase
+commentable: true
 Edit: 2018-11-14
 mathjax: true
 mermaid: true
