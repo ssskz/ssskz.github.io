@@ -3,7 +3,7 @@ title: About
 layout: info
 Edit: 2018-11-14
 toc: false
-commentable: false
+commentable: true
 protected: true
 mathjax: true
 ---
