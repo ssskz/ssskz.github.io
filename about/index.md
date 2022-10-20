@@ -64,4 +64,4 @@ Which has been beautifully put by Bruce Lee:
 
 # Contact
 
-The best way to reach me is via email: $namer$ @ $web.com$
+The best way to reach me is via email: $748527866$ @ $qq.com$
