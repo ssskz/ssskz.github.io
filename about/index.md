@@ -28,7 +28,7 @@ The posts are at different status.
 
 # Sources
 
-This website uses these sources:
+This website is based on the following open source projects:
 
 | Module                                                       | Mainly used in                                  | License/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
