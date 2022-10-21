@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Markdown Syntax
-edit: 2019-03-26
+edit: 2022-10-20
 mathjax: true
 mermaid: true
 highlight: true
