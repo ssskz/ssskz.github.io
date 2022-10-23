@@ -1,7 +1,7 @@
 /* The side navigation menu */
 .sidenav {
     height: 100%; /* 100% Full-height */
-    width: 25%; 
+    width: 20%; 
     background-color: #1a222c; /* Match homepage*/
     position: fixed; /* Stay in place */
     z-index: 1; /* Stay on top */
