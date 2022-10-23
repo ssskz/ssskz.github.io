@@ -160,7 +160,7 @@ a.sidebar-nav-item:focus {
   top:  1rem;
   left: 1rem;
   display: block;
-  width: 2.2rem;
+  width: 2rem;
   padding: .5rem .65rem;
   color: white;
   background-color: #1a222c;
@@ -189,7 +189,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-	/* position: fixed; */
+	 position: fixed; 
   color: #fff;
   background-color: #505050;
 }
