@@ -8,7 +8,7 @@
     top: 0; /* Stay at the top */
     overflow: hidden;
 	transition: top 0.3s; /* Transition effect when sliding down (and up) */
-    /*height: 8%;*/
+    height: 8%;
 }
 
 /* Style the links inside the navigation bar */
@@ -23,7 +23,7 @@
 }
 
 .topnav .icon {
-  display: none;
+  display: block;
 }
 
 /* Change the color of links on hover */
