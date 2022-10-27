@@ -52,9 +52,9 @@ Additional licensing information can be found YOUR WEBSITE LINK.
 
 I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
 
-> **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
+> **铮，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。**
 >
-> **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
+> **非谢家之宝树，接孟氏之芳邻。他日趋庭，叨陪鲤对；今兹捧袂，喜托龙门。杨意不逢，抚凌云而自惜；钟期既遇，奏流水以何惭？**
 >
 > **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
 
