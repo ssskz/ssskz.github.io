@@ -90,7 +90,7 @@ body {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -17rem;
+  left: -12rem;
   width: 12rem;
   visibility: hidden;
   overflow-y: auto;
@@ -103,8 +103,8 @@ body {
 @media only screen and (max-width: 450px) {
   .sidebar {
     font-size: .75rem; /* 14px */
-		left: -14rem;
-		width: 14rem;
+		left: -10rem;
+		width: 10rem;
   }
 }
 
