@@ -58,9 +58,6 @@ I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
 >
 > **呜乎！胜地不常，盛筵难再；兰亭已矣，梓泽丘墟。临别赠言，幸承恩于伟饯；登高作赋，是所望于群公。敢竭鄙怀，恭疏短引；一言均赋，四韵俱成。请洒潘江，各倾陆海云尔：**
 
-Which has been beautifully put by Bruce Lee:
-
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
 
 # Contact
 
