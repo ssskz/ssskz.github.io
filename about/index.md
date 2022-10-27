@@ -50,7 +50,7 @@ Additional licensing information can be found YOUR WEBSITE LINK.
 
 # The Name
 
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
+I used 《Preface to Tengwang Pavilion》 as the website inscription:
 
 > **铮，三尺微命，一介书生。无路请缨，等终军之弱冠；有怀投笔，慕宗悫之长风。舍簪笏于百龄，奉晨昏于万里。**
 >
