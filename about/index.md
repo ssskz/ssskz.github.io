@@ -62,3 +62,5 @@ I used 《Preface to Tengwang Pavilion》 as the website inscription:
 # Contact
 
 The best way to reach me is via email: [`748527866@qq.com`](mailto:748527866@qq.com)
+
+<img src="https://raw.githubusercontent.com/yk-liu/yk-liu.github.io/master/_posts/2018-11-01-Introduction-to-Homology/assets/triangles.png" width="30%">
