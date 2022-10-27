@@ -10,7 +10,7 @@ mathjax: true
 
 # Me
 
-<img src="https://ssskz.github.io/about/skz.jpeg" width="30%">
+<img src="https://ssskz.github.io/about/skz.jpeg" width="30%" height="30%">
 
 # This Site
 
