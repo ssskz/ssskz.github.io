@@ -1,7 +1,7 @@
 ---
-title: Sample Post - Markdown Syntax
+title: Advanced Algebra
 commentable: flase
-Edit: 2018-11-14
+Edit: 2022-11-3
 mathjax: true
 mermaid: true
 tags: tag1 tag2 tag3
