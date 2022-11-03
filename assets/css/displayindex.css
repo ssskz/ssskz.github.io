@@ -154,7 +154,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle {
   position: absolute;
   top:  1rem;
-  left: 1rem;
+  left: -2rem;
   display: block;
   width: 2rem;
   padding: .5rem .65rem;
