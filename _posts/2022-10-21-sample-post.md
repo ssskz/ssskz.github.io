@@ -250,10 +250,6 @@ This is a note[^1]. Footnotes can have captions like[^this]. You can reference t
 
 #### This is  h4
 
-##### This is h5
-
-###### This is h6
-
 # Foot Notes
 
 The Foot notes are like this
