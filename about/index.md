@@ -46,7 +46,7 @@ This website is based on the following open source projects:
 
 Additional licensing information can be found YOUR WEBSITE LINK.
 
-# The Name
+# The Motto
 
 I used 《Preface to Tengwang Pavilion》 as the website inscription:
 
