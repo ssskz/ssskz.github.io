@@ -5,13 +5,12 @@ Edit: 2022-11-3
 mathjax: true
 mermaid: true
 tags: polynomial
+status: Writing
 categories: Algebra
 description: Here are my review notes for advanced algebra.
 ---
 
-This page's comment is disabled, scroll down to see.
-
-# Careful!
+# Polynomial
 
 Don't use `[]` in YAML front matter. 
 
