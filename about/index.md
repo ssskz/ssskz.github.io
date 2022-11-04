@@ -12,6 +12,9 @@ mathjax: true
 
 # This Site
 
+I call this site my Garden of Eden, as you can see, this website is not only about my blog, projects and shares, but also my private plot.
+
+It's a great honor for me to have you here, so I wish you can get something here. And you are free to comment or connect with me.
 
 # Posts
 
