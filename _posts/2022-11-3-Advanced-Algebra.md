@@ -1,11 +1,11 @@
 ---
 title: Advanced Algebra
-commentable: flase
+commentable: true
 Edit: 2022-11-3
 mathjax: true
 mermaid: true
-tags: tag1 tag2 tag3
-categories: sample post
+tags: polynomial
+categories: Algebra
 description: Here are my review notes for advanced algebra.
 ---
 
