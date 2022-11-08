@@ -1,5 +1,5 @@
 ---
-title: Sample Post - Markdown Syntax
+title: Control-Theory.
 commentable: true
 Edit: 2022-10-21
 mathjax: true
