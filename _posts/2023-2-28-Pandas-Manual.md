@@ -942,7 +942,7 @@ print (df)
 | tail()  | 返回后n行数据|
 | shift()  | 将行或列移动指定的步幅长度|
 
-### T（Transpose）转置
+### Transpose
 
 返回 `DataFrame` 的转置，也就是把行和列进行交换。
 
@@ -1693,8 +1693,6 @@ for col in df:
 df = pd.DataFrame(np.random.randn(4,3),columns=['col1','col2','col3'])
 df
 ```
-
-
 
 
 <div>
