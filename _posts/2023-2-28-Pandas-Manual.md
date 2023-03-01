@@ -218,6 +218,7 @@ print(s)
     a    0.0
     dtype: float64
 
+值得一提的是，在本例中若通过索引'd'访问series数据，返回的将是'NaN'
 
 ### 标量创建Series对象
 
