@@ -10,7 +10,7 @@ mathjax: true
 
 # Me
 
-<p>__[PDF] My CV__ <a href="https://ssskz.github.io/about/CV.pdf">[click here to download]</a></p>
+<p>[PDF] My CV <a href="https://ssskz.github.io/about/CV.pdf">[click here to download]</a></p>
 
 # This Site
 
