@@ -375,7 +375,7 @@ print(s['f'])
 | index | 返回一个Rangelndex对象，用来描述索引的取值范围 |
 
 
-现在随机创建一个series对象，用来演示上述属性
+现在随机创建一个`series`对象，用来演示上述属性
 
 
 ```python
@@ -434,7 +434,7 @@ print (y.empty)
 
 ### ndim
 
-查看序列的维数。根据定义，Series 是一维数据结构，因此它始终返回 1。
+查看序列的维数。根据定义，`Series` 是一维数据结构，因此它始终返回 1。
 
 ```python
 print (s)
@@ -472,7 +472,7 @@ print(s.values)
 
 ### index
 
-该属性用来查看 Series 中索引的取值范围。示例如下：
+该属性用来查看 `Series` 中索引的取值范围。示例如下：
 
 
 ```python
