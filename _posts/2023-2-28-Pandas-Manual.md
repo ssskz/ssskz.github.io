@@ -601,7 +601,7 @@ print(df)
 
 列表创建`DataFame`对象
 
-示例 1，单一列表创建 DataFrame：
+1.单一列表创建 DataFrame：
 
 
 ```python
@@ -618,7 +618,7 @@ print(df)
     4  5
 
 
-示例 2，使用嵌套列表创建 `DataFrame` 对象：
+2.使用嵌套列表创建 `DataFrame` 对象：
 
 
 ```python
@@ -633,7 +633,7 @@ print(df)
     2  Clarke   13
 
 
-示例 3，指定数值元素的数据类型为 float：
+3.指定数值元素的数据类型为 float：
 
 ```python
 data = [['Alex',10],['Bob',12],['Clarke',13]]
@@ -645,11 +645,6 @@ print(df)
     0    Alex  10.0
     1     Bob  12.0
     2  Clarke  13.0
-
-
-    /tmp/ipykernel_2884594/3703379687.py:2: FutureWarning: Could not cast to float64, falling back to object. This behavior is deprecated. In a future version, when a dtype is passed to 'DataFrame', either all columns will be cast to that dtype, or a TypeError will be raised.
-      df = pd.DataFrame(data,columns=['Name','Age'],dtype=float)
-
 
 ### 字典嵌套列表创建
 
@@ -664,7 +659,6 @@ print(df)
     1   Jack   34
     2  Steve   29
     3  Ricky   42
-
 
 注意：这里使用了默认行标签，也就是 `range(n)`，它生成了 0,1,2,3，并分别对应了列表中的每个元素值。
 
@@ -681,7 +675,6 @@ print(df)
     rank2   Jack   34
     rank3  Steve   29
     rank4  Ricky   42
-
 
 ## 列表嵌套字典创建DataFrame对象
 
@@ -905,11 +898,6 @@ print(df)
     0  5  6
     1  7  8
 
-
-    /tmp/ipykernel_2884594/1922837991.py:4: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-      df = df.append(df2)
-
-
 ### 删除数据行
 
 使用行索引标签，利用 `drop` 函数从 `DataFrame` 中删除某一行数据。如果索引标签存在重复，那么它们将被一起删除
@@ -934,10 +922,6 @@ print (df)
        a  b
     1  3  4
     1  7  8
-
-
-    /tmp/ipykernel_2884594/2606420068.py:3: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
-      df = df.append(df2)
 
 
 ## 常用属性和方法汇总
@@ -1063,9 +1047,6 @@ df = pd.DataFrame(d)
 df
 ```
 
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -1167,8 +1148,6 @@ df
 </div>
 
 
-
-
 ```python
 #默认axis=0或者使用sum("index")
 print(df.sum())
@@ -1178,7 +1157,6 @@ print(df.sum())
     Age                            382
     Rating                       44.92
     dtype: object
-
 
 注意：sum() 和 cumsum() 函数可以同时处理数字和字符串数据。下面再看一下 axis=1 的情况，如下所示：
 
