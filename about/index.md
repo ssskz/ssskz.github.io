@@ -10,6 +10,8 @@ mathjax: true
 
 # Me
 
+<p>[PDF] My CV <a href="https://ssskz.github.io/about/CV.pdf">[click to download]</a></p>
+
 # This Site
 
 I call this site my Garden of Eden, as you can see, this website is not only about my blog, projects and shares, but also my private plot.
