@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 status: Writing
 tags: java nku-sms
-categories: CS
+categories: Computer-Science
 description: This is my learning shares of JAVA course given by Pr. Xiang sms, Nankai University, in 2023 spring semester.
 --- 
 
