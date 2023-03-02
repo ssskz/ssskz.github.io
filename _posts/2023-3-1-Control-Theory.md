@@ -24,3 +24,5 @@ description: Sharing of learning materials (homework and exams) about **Control 
 <p><a href="https://ssskz.github.io/materials/控制论基础期末考试.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础期末考试试卷 + 试题解析</a></p>
 
 # Project
+
+<p><a href="https://ssskz.github.io/materials/流体力学综述报告.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论课程中期大作业</a></p>
