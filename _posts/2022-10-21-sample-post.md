@@ -4,7 +4,7 @@ commentable: true
 Edit: 2022-10-21
 mathjax: true
 mermaid: true
-tags: sample mermaid mathjax
+tags: sample
 categories: Markdown
 description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://ssskz.github.io).
 ---
