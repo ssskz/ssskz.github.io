@@ -17,6 +17,19 @@ description: Sharing of learning materials (homework and exams) about **Financia
 
 ## Chapter II
 
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第一部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第一部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第二部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第二部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第三部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第三部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第四部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第四部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第五部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第五部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第二章远期与期货（第六部分）.pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第二章讲义第六部分 </a></p>
+
+
 ## Chapter III
 
 ## Chapter IV
