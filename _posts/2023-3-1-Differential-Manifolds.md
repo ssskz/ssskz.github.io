@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: nku-sms manifolds topology
 categories: Geometry
-description: Sharing of learning materials (homework and exams) about **Control Theroy** course given by [Pr.Wang](https://math.nankai.edu.cn/2016/1113/c5622a51447/page.htm) sms, Nankai University, in 2022 Fall semester.
+description: Sharing of learning materials (homework and exams) about **Differential Manifolds** course given by [Pr.Wang](https://my.nankai.edu.cn/sms/wwl/list.htm) sms, Nankai University, in 2022 Fall semester.
 ---
 
 # Homework
