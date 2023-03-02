@@ -67,8 +67,8 @@ description: Sharing of learning materials (homework and exams) about **Financia
 
 # Exam
 
-<p><a href="https://ssskz.github.io/materials/控制论基础期末考试.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础期末考试试卷 + 试题解析</a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/2022金融工程学试题(A).pdf" target="_blank">[PDF] 2022-2023春季学期金融工程期末考试试卷</a></p>
 
-# Project
+# Reference
 
-<p><a href="https://ssskz.github.io/materials/流体力学综述报告.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论课程中期大作业</a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/cox1981.pdf.pdf" target="_blank">[PDF] 2022-2023秋季学期金融工程参考论文</a></p>
