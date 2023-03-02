@@ -4,7 +4,7 @@ commentable: true
 Edit: 2022-11-3
 mathjax: true
 mermaid: true
-tags: polynomial
+tags: linear-algebra
 status: Writing
 categories: Algebra
 description: Here are my review notes for advanced algebra.
