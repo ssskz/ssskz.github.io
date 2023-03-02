@@ -1,5 +1,5 @@
 ---
-title: Calculating $\pi$
+title: Calculating π
 commentable: true
 Edit: 2023-3-2
 mathjax: true
