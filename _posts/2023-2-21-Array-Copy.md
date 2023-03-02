@@ -7,7 +7,7 @@ mermaid: true
 status: Writing
 tags: java nku-sms
 categories: Computer-Science
-description: This is my learning shares of JAVA course given by Pr. Xiang sms, Nankai University, in 2023 spring semester.
+description: This is my learning shares of JAVA course given by Pr. Xiang sms, Nankai University, in 2023 Spring semester.
 --- 
 
 In last week's class, a funny issue was left by Pr.Xiang, consider and compare several array copy methods in JAVA. 
