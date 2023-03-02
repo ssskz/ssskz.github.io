@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: data-structure C++ 
 categories: Computer-Science
-description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://ssskz.github.io).
+description: A project of calculating π and output 1000 decimal places.
 ---
 
 This page's comment is disabled, scroll down to see.
