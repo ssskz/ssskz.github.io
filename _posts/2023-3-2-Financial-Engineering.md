@@ -42,6 +42,13 @@ description: Sharing of learning materials (homework and exams) about **Financia
 
 ## Chapter IV
 
+<p><a href="https://ssskz.github.io/materials/金融工程/第四章期权(第一节).pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第四章讲义第一部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第四章期权(第二节).pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第四章讲义第二部分 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/第四章期权(第三节).pdf" target="_blank">[PDF] 2022-2023春季学期金融工程第四章讲义第三部分 </a></p>
+
+
 ## Chapter V
 
 ## Chapter VI
