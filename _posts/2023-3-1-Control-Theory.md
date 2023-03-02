@@ -9,7 +9,17 @@ categories: Applied-Mathematics
 description: Sharing of learning materials (homework and exams) about **Control Theroy** course given by [Pr.Wang](https://math.nankai.edu.cn/2016/1113/c5622a51447/page.htm) sms, Nankai University, in 2022 Fall semester.
 ---
 
-# Reference
+# Lectures
+
+<p><a href="https://ssskz.github.io/materials/第一章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第一章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/第二章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第二章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/第三章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第三章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/第三章-实现.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第四章讲义 </a></p>
+
+
 
 # Homework
 
