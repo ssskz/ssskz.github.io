@@ -7,7 +7,7 @@ mermaid: true
 tags: Lie-algebra
 status: Writing
 categories: Algebra
-description: Here are my review notes for advanced algebra.
+description: Here are my learning notes for Lie Group.
 ---
 
 # Polynomial
