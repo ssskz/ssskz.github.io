@@ -4,7 +4,7 @@ commentable: true
 Edit: 2023-3-2
 mathjax: true
 mermaid: true
-tags: Lie-algebra
+tags: group-theory
 status: Writing
 categories: Algebra
 description: Here are my learning notes for Lie Group.
