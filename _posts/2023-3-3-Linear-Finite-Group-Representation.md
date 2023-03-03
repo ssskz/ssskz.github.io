@@ -4,8 +4,8 @@ commentable: true
 Edit: 2023-3-2
 mathjax: true
 mermaid: true
-tags: group-theory
-status: Writing
+tags: group-theory nku-sms
+status: Completed
 categories: Algebra
 description: Sharing of learning materials (homework and exams) about **Linear Finite Group Representation** course given by [Pr.Chang](http://www.nim.nankai.edu.cn/cl/list.htm) sms, Nankai University, in 2022 Fall semester.
 ---
