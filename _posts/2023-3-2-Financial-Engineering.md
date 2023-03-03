@@ -71,4 +71,4 @@ description: Sharing of learning materials (homework and exams) about **Financia
 
 # Reference
 
-<p><a href="https://ssskz.github.io/materials/金融工程/cox1981.pdf.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程参考论文</a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/cox1981.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程参考论文</a></p>
