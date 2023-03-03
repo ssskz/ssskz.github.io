@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: python data-mining
 categories: Data-Science
-description: This is a knowledge sharing about pandas on Data Mining course given by [Pr.Chen](https://shengquanchen.github.io/) sms, Nankai University, in 2023 spring semester.
+description: This is a knowledge sharing about pandas on Data Mining course given by [Pr.Chen](https://shengquanchen.github.io/) sms, Nankai University, in 2023 Spring semester.
 --- 
 
 # Hello Pandas!
