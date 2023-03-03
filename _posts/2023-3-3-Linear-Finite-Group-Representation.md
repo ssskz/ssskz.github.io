@@ -7,7 +7,7 @@ mermaid: true
 tags: group-theory
 status: Writing
 categories: Algebra
-description: Here are my learning notes for Lie Group.
+description: Sharing of learning materials (homework and exams) about **Linear Finite Group Representation** course given by [Pr.Chang](http://www.nim.nankai.edu.cn/cl/list.htm) sms, Nankai University, in 2022 Fall semester.
 ---
 
 # Polynomial
