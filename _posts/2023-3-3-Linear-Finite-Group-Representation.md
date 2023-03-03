@@ -25,16 +25,20 @@ description: Sharing of learning materials (homework and exams) about **Linear F
 
 # Homework
 
-<p><a href="https://ssskz.github.io/materials/控制论基础1.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第一次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/HW1.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第一次作业</a></p>
 
-<p><a href="https://ssskz.github.io/materials/控制论基础2.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第二次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/HW2.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第二次作业</a></p>
 
-<p><a href="https://ssskz.github.io/materials/控制论基础3.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第三次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/HW3.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第三次作业</a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/HW4.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第四次作业</a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/HW5.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第五次作业</a></p>
 
 # Exam
 
-<p><a href="https://ssskz.github.io/materials/控制论基础期末考试.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础期末考试试卷 + 试题解析</a></p>
+<p><a href="https://www.zhangwp.com/files/algebra/2020-2021第一学期《有限群表示论》期末考试.pdf" target="_blank">[PDF] 2020-2021秋季学期有限群表示论期末考试试卷</a></p>
 
 # Project
 
-<p><a href="https://ssskz.github.io/materials/流体力学综述报告.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论课程中期大作业</a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/report.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论期末读书报告</a></p>
