@@ -13,15 +13,21 @@ description: Sharing of learning materials (homework and exams) about **Linear F
 
 # Lectures
 
-<p><a href="https://ssskz.github.io/materials/第一章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第一章讲义 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第1章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第一章讲义 </a></p>
 
-<p><a href="https://ssskz.github.io/materials/第二章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第二章讲义 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第2章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第二章讲义 </a></p>
 
-<p><a href="https://ssskz.github.io/materials/第三章.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第三章讲义 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第3章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第三章讲义 </a></p>
 
-<p><a href="https://ssskz.github.io/materials/第三章-实现.pdf" target="_blank">[PDF] 2022-2023秋季学期控制论基础第四章讲义 </a></p>
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第4章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第四章讲义 </a></p>
 
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第5章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第五章讲义 </a></p>
 
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第6章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第六章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第7章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第七章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第8章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第八章讲义 </a></p>
 
 # Homework
 
