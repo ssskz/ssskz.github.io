@@ -390,8 +390,8 @@ This is a note[^1]. Footnotes can have captions like[^this]. You can reference t
 The Foot notes are like this
 
 
-[^1]: https://yk-liu.github.io
-[^this]: https://yk-liu.github.io
+[^1]: https://ssskz.github.io
+[^this]: https://ssskz.github.io
 
 [^this-one]: 
     > Blockquotes can be in a footnote.
@@ -402,5 +402,5 @@ The Foot notes are like this
 
 [^that]: or, naturally, simple paragraphs.
 
-[^linkid]: https://yk-liu.github.io "Optional Title"
+[^linkid]: https://ssskz.github.io "Optional Title"
 
