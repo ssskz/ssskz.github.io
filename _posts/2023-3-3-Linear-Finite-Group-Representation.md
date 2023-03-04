@@ -29,6 +29,12 @@ description: Sharing of learning materials (homework and exams) about **Linear F
 
 <p><a href="https://ssskz.github.io/materials/有限群表示论/第8章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第八章讲义 </a></p>
 
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第9章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第九章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第10章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第十章讲义 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/有限群表示论/第11章.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第十一章讲义 </a></p>
+
 # Homework
 
 <p><a href="https://ssskz.github.io/materials/有限群表示论/HW1.pdf" target="_blank">[PDF] 2022-2023秋季学期有限群表示论第一次作业</a></p>
