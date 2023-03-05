@@ -9,7 +9,7 @@ categories: Physics
 description: Sharing of learning materials about **University Physics Experiments** course, in 2021 Spring semester.
 ---
 
-# Lectures
+# Homework
 
 <p><a href="https://ssskz.github.io/materials/大学物理实验/不确定度.pdf" target="_blank">[PDF] 2020-2021春季学期大学物理实验-不确定度 </a></p>
 
