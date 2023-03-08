@@ -130,12 +130,12 @@ Now you are just one step away from accessing the server Jupyter Notebook in you
 On the local computer, map the server port to the local computer, use the cmd command to open the console (Windows user), or open terminal (Mac user), enter:
 
 ```bash
-ssh username@server_ip -L127.0.0.1:8000:127.0.0.1:8888
+ssh username@server_ip -L127.0.0.1:8000:127.0.0.1:6666
 ```
 
 whereas
 
-- `8888`: represents the same port used by the server-side Jupyter Notebook 
+- `6666`: represents the same port used by the server-side Jupyter Notebook 
 - `8000`: represents the port used by the local-side, it is changeable to you
 - `username`: is your username that is opened on the server
 - `server_ip`: is the IP of the server
