@@ -8,7 +8,7 @@ tags: linux  python
 categories: Operating-System
 description: Open the Jupyter Notebook on the remote server using a local browser.
 ---
-Lately I've been running a lot of code for neural networks, so I always use .ipynb files. However, since running on the local machine often out of memory. So I decided to use the academy's Linux servers
+Lately I've been running a lot of code for neural networks, so I always use `.ipynb` files. However, since running on the local machine often out of memory. So I decided to use the academy's Linux servers.
 
 But it took me a lot to access the server's Jupyter Notebook on my local browser. So I summarized my experience and shared it with you.
 
@@ -38,7 +38,7 @@ The command line will tell you the path to the config file, for example:
 
 This file contains various configuration information of Jupyter, but by default it is commented out. So we're going to set up a few of them.
 
-You can open and modify the file through vim:
+You can open and modify the file through `vim`:
 
 ```shell
 vim /home/username/.jupyter/jupyter_notebook_config.py
@@ -61,9 +61,9 @@ jupyter notebook password
 Then You will see this output:
 
 
-Enter your password, you will not see an asterisk when you enter it, just enter it directly. After typing, the command line returns a JSON file. 
+Enter your password, you will not see an asterisk when you enter it, just enter it directly. After typing, the command line returns a `JSON` file. 
 
-This JSON file and the config file just now are in the same directory. Open this json file and you will see the following:
+This `JSON` file and the config file just now are in the same directory. Open this json file and you will see the following:
 
 The red box is the hash value of the password, copy everything inside the double quotes, which will be used later.
 
