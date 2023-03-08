@@ -101,7 +101,7 @@ c.NotebookApp.ip='*'
 
 The default port is 8888, if you want to specify the port, such as running on port 6666:
 
-```bash
+```shell
 c.NotebookApp.port = 8888
 ```
 
@@ -109,7 +109,7 @@ c.NotebookApp.port = 8888
 
 If you want to modify the Jupyter Notebook's working directory:
 
-```bash
+```shell
 c.NotebookApp.notebook_dir = “你的目录”
 ```
 
