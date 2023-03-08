@@ -20,7 +20,7 @@ Assuming that you already have Jupyter Notebook installed on your Linux server.
 
 ## Generate Jupyter Notebook configuration file
 
-```markdown
+```bash
 jupyter notebook --generate-config
 ```
 
@@ -32,7 +32,7 @@ If you want to override, just select Override.
 
 The command line will tell you the path to the config file, for example:
 
-```markdown
+```bash
 /home/username/.jupyter/jupyter_notebook_config.py
 ```
 
@@ -40,7 +40,7 @@ This file contains various configuration information of Jupyter, but by default 
 
 You can open and modify the file through vim:
 
-```markdown
+```bash
 vim /home/username/.jupyter/jupyter_notebook_config.py
 ```
 
@@ -48,13 +48,13 @@ vim /home/username/.jupyter/jupyter_notebook_config.py
 
 Add a line at the end of the above config file and save before exit:
 
-```markdown
+```bash
 c.NotebookApp.allow_password_change=False
 ```
 
 Then enter on the command line:
 
-```markdown
+```bash
 jupyter notebook password
 ```
 
@@ -69,7 +69,7 @@ The red box is the hash value of the password, copy everything inside the double
 
 Next, open the config file just now, adding a line at the end:
 
-```markdown
+```bash
 c.NotebookApp.password = "你刚才复制的hash值"
 ```
 
@@ -79,13 +79,13 @@ Then password-related settings Binggo！
 
 After jupyter is running, the server itself may open a built-in Firefox browser, but some servers do not have such a built-in Firefox browser, so you have to decide whether to open the built-in browser when starting the service according to your own situation:
 
-```markdown
+```bash
 c.NotebookApp.open_browser = False # 不打开内置浏览器
 ```
 ### Remote visiting settings
 
 In order to access in your local browser, You should allow external IP to log in：
-```markdown
+```bash
 c.NotebookApp.allow_remote_access = True
 c.NotebookApp.ip='*'
 ```
@@ -95,6 +95,6 @@ c.NotebookApp.ip='*'
 ### Server port settings
 
 The default port is 8888, if you want to specify the port, such as running on port 6666, enter:
-```markdown
+```bash
 jupyter notebook --port 6666
 ```
