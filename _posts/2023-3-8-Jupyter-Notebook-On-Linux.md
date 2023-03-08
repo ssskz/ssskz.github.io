@@ -98,3 +98,11 @@ The default port is 8888, if you want to specify the port, such as running on po
 ```bash
 jupyter notebook --port 6666
 ```
+
+When you access for the first time, you have to enter the password, which is the one you set up earlier.
+
+By default, everyone uses anaconda as a Python environment, say more:
+
+- If you are using Anaconda, even if you install it with `pip install`, Jupyter does not belong to any virtual environment, but to the entire server (the entire computer).
+
+- Jupyter can run on different ports on a single server at the same time.
