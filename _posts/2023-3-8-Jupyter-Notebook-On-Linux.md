@@ -26,6 +26,8 @@ jupyter notebook --generate-config
 
 If you've used this command before, or created a configuration file yourself, the command line may ask you if you want to overwrite an existing file. 
 
+<img src="https://ssskz.github.io/about/ipynb_1.png" width="50%">
+
 If you want to override, just select Override.
 
 ## Edit Jupyter Notebook configuration file
@@ -44,6 +46,8 @@ You can open and modify the file through `vim`:
 vim /home/username/.jupyter/jupyter_notebook_config.py
 ```
 
+<img src="https://ssskz.github.io/about/ipynb_2.png" width="50%">
+
 ### Start with password-related settings
 
 Add a line at the end of the above config file and save before exit:
@@ -60,6 +64,7 @@ jupyter notebook password
 
 Then You will see this output:
 
+<img src="https://ssskz.github.io/about/ipynb_3.png" width="50%">
 
 Enter your password, you will not see an asterisk when you enter it, just enter it directly. After typing, the command line returns a `JSON` file. 
 
