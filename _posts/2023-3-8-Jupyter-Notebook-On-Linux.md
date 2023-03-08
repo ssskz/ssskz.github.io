@@ -1,5 +1,5 @@
 ---
-title: Jupyter Notebook On Linux.
+title: Jupyter Notebook On Linux
 commentable: true
 Edit: 2023-3-8
 mathjax: true
