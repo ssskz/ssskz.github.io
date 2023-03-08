@@ -100,6 +100,14 @@ The default port is 8888, if you want to specify the port, such as running on po
 c.NotebookApp.port = 8888
 ```
 
+### Directory port settings
+
+If you want to modify the Jupyter Notebook's working directory:
+
+```bash
+c.NotebookApp.notebook_dir = “你的目录”
+```
+
 When you access for the first time, you have to enter the password, which is the one you set up earlier.
 
 By default, everyone uses anaconda as a Python environment, say more:
