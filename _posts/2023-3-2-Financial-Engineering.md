@@ -59,11 +59,25 @@ description: Sharing of learning materials (homework and exams) about **Financia
 
 # Homework
 
-<p><a href="https://ssskz.github.io/materials/控制论基础1.pdf" target="_blank">[PDF] 2021-2022秋季学期控制论基础第一次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework1.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第一次作业 </a></p>
 
-<p><a href="https://ssskz.github.io/materials/控制论基础2.pdf" target="_blank">[PDF] 2021-2022秋季学期控制论基础第二次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework2.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第二次作业 </a></p>
 
-<p><a href="https://ssskz.github.io/materials/控制论基础3.pdf" target="_blank">[PDF] 2021-2022秋季学期控制论基础第三次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework3.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第三次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework4.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第四次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework5.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第五次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework6.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第六次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework7.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第七次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework8.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第八次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework9.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第九次作业 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/金融工程/Homework10.pdf" target="_blank">[PDF] 2021-2022秋季学期金融工程第十次作业 </a></p>
 
 # Exam
 
