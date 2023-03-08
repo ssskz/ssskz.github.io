@@ -106,3 +106,24 @@ By default, everyone uses anaconda as a Python environment, say more:
 - If you are using Anaconda, even if you install it with `pip install`, Jupyter does not belong to any virtual environment, but to the entire server (the entire computer).
 
 - Jupyter can run on different ports on a single server at the same time.
+
+# Local and server port mapping
+
+Now you are just one step away from accessing the server Jupyter Notebook in your local browser.
+
+On the local computer, map the server port to the local computer, use the cmd command to open the console (Windows user), or open terminal (Mac user), enter:
+
+```bash
+ssh username@server_ip -L127.0.0.1:8000:127.0.0.1:8888
+```
+
+whereas, 
+- `8888` represents the same port used by the server-side Jupyter Notebook 
+- `8000` represents the port used by the local-side, it is changeable to you
+- `username` is your username that is opened on the server
+- `server_ip` is the IP of the server
+- `127.0.0.1` is a fixed format, cause it represents localhost, which is the IP address inside the localhost IP stack
+
+# visiting Jupyter Notebook
+
+Enter the `https://127.0.0.1:8000` in your local browser, then you can visit Jupyter Notebook on the remote Linux server on your local browser! Conratulations!
