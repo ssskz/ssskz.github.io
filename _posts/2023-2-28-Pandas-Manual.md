@@ -48,17 +48,17 @@ Pandas 的主要数据结构是 `Series` （一维数据）与 `DataFrame`（二
 
 使用`pip`或者`conda`安装，这两个都是Python的包管理工具，是安装第三方库的主要方式。在 CMD 命令提示符界面行执行以下命令：
 
-```markdown
+```shell
 pip install pandas
 ```
 或者
-```markdown
+```shell
 conda install pandas
 ```
 
 你也可以安装特定版本的Pandas：
 
-```markdown
+```shell
 pip install pandas=0.20.3
 ```
 
@@ -69,13 +69,13 @@ pip install pandas=0.20.3
 使用镜像源有两种方式，以清华源为例：
 
 1.临时使用
-```markdown
+```shell
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package pandas
 ```
 除了matplotib是要写安装的库名外，其他都是固定格式
 
 2.设为默认
-```markdown
+```shell
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
@@ -85,7 +85,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 >
 > 比如说numpy版本低了，那可以重新安装相应版本，就能解決安装错误的问题了
 
-```markdown
+```shell
 pip install numpy==1.17.3
 ```
 
