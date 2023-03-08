@@ -70,6 +70,8 @@ Enter your password, you will not see an asterisk when you enter it, just enter 
 
 This `JSON` file and the config file just now are in the same directory. Open this json file and you will see the following:
 
+<img src="https://ssskz.github.io/about/ipynb_5.jpg" width="75%">
+
 The red box is the hash value of the password, copy everything inside the double quotes, which will be used later.
 
 Next, open the config file just now, adding a line at the end:
