@@ -26,7 +26,7 @@ jupyter notebook --generate-config
 
 If you've used this command before, or created a configuration file yourself, the command line may ask you if you want to overwrite an existing file. 
 
-<img src="https://ssskz.github.io/about/ipynb_1.png" width="50%">
+<img src="https://ssskz.github.io/about/ipynb_1.png" width="75%">
 
 If you want to override, just select Override.
 
@@ -46,7 +46,7 @@ You can open and modify the file through `vim`:
 vim /home/username/.jupyter/jupyter_notebook_config.py
 ```
 
-<img src="https://ssskz.github.io/about/ipynb_2.png" width="50%">
+<img src="https://ssskz.github.io/about/ipynb_2.png" width="75%">
 
 ### Start with password-related settings
 
@@ -64,7 +64,7 @@ jupyter notebook password
 
 Then You will see this output:
 
-<img src="https://ssskz.github.io/about/ipynb_3.png" width="50%">
+<img src="https://ssskz.github.io/about/ipynb_3.png" width="75%">
 
 Enter your password, you will not see an asterisk when you enter it, just enter it directly. After typing, the command line returns a `JSON` file. 
 
@@ -143,4 +143,4 @@ whereas
 
 Enter the `http://127.0.0.1:8000` in your local browser, then you can visit Jupyter Notebook on the remote Linux server on your local browser!
 
-<img src="https://ssskz.github.io/about/ipynb_4.png" width="50%">
+<img src="https://ssskz.github.io/about/ipynb_4.png" width="75%">
