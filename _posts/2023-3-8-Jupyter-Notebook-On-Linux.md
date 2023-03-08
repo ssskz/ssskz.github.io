@@ -141,6 +141,6 @@ whereas
 
 # visiting Jupyter Notebook
 
-Enter the `https://127.0.0.1:8000` in your local browser, then you can visit Jupyter Notebook on the remote Linux server on your local browser!
+Enter the `http://127.0.0.1:8000` in your local browser, then you can visit Jupyter Notebook on the remote Linux server on your local browser!
 
 <img src="https://ssskz.github.io/about/ipynb_4.png" width="50%">
