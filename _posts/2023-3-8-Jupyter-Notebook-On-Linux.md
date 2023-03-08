@@ -40,7 +40,7 @@ This file contains various configuration information of Jupyter, but by default 
 
 You can open and modify the file through vim:
 
-```bash
+```shell
 vim /home/username/.jupyter/jupyter_notebook_config.py
 ```
 
