@@ -94,9 +94,10 @@ c.NotebookApp.ip='*'
 
 ### Server port settings
 
-The default port is 8888, if you want to specify the port, such as running on port 6666, enter:
+The default port is 8888, if you want to specify the port, such as running on port 6666:
+
 ```bash
-jupyter notebook --port 6666
+c.NotebookApp.port = 8888
 ```
 
 When you access for the first time, you have to enter the password, which is the one you set up earlier.
