@@ -6,5 +6,6 @@ mathjax: true
 mermaid: true
 tags: data-structure C++ 
 categories: Computer-Science
+status: Writing
 description: A project of calculating π and output 1000 decimal places.
 ---
