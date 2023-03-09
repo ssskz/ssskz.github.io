@@ -1,5 +1,5 @@
 ---
-title: Runge-Phenomenon
+title: Runge Phenomenon
 commentable: true
 Edit: 2023-3-9
 mathjax: true
