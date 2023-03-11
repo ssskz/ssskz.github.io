@@ -37,7 +37,7 @@ We first introduce the basic definition and interpolation format of interpolatio
 > Construct a simple and easy-to-calculate function p(x) that satisfies the following conditions:
 > $$ p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1$$
 > The above problem is called the interpolation problem. $ x_1 , x_2 , \dots , x_n $ is called interpolation nodes.
-> $p(x)$ is called $f(x)$ as an interpolation function with respect to the node group, and the condition is called the interpolation condition.
+> $p(x)$ is called an interpolation function of $f(x)$ with respect to the nodes group, and the condition is called the interpolation condition.
 
 It is understood geometrically, as shown in the figure below:
 
