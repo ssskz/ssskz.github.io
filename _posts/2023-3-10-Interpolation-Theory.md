@@ -143,7 +143,9 @@ Next we can define the interpolation basis function:
 > $$
 > then, $l_i(x)$ is called interpolation basis function.
 
+The interpolation basis function, which is unknown in our definition at this point, is the form of the hypothesis that we want the result of $p(x)$ to be the same as $f(x)$ for each known point $x_i$.
 
+Then we have this basic idea, which we think is for the function $l_k(x_i)$. When k = i we want $l_k(x_i) = 1$, so that we get $y_i = f(x_i)$ meet our needs, otherwise equal to zero.
 
 
 
