@@ -131,12 +131,17 @@ But we all know that a system of linear equations does not necessarily have a so
 > $$
 > Then we call $\varphi_1(x), \varphi_2(x), \cdots, \varphi_n(x)$ satisfy the Haar condition on the interval $[a, b]$. 
 
- 
+Next we can define the interpolation basis function:
 
-
-
-
-
+> Interpolation basis function
+> Functions $\{l_1(x),l_2(x),\dots,l_n(x)\}$, satisfy:
+> $$
+> l_k\left(x_i\right)=\delta_{i, k}=\left\{\begin{array}{l}
+> 1, i=k, \\
+> 0, i \neq k,
+> \end{array} \quad k=1, \cdots, n ; i=1, \cdots, n .\right.
+> $$
+> then, $l_i(x)$ is called interpolation basis function.
 
 
 
