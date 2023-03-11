@@ -30,12 +30,22 @@ We first introduce the basic definition and interpolation format of interpolatio
 
 
 > Let the function value and derivative of the function be known at n points of mutual difference
- $$ f(x_1) , f'(x_1) , \dots , f^{\alpha_1 - 1}(x_1)$$
- $$ f(x_2) , f'(x_2) , \dots , f^{\alpha_2 - 1}(x_2)$$
- $$ \vdots \qquad\qquad \vdots$$
- $$ f(x_n) , f'(x_n) , \dots , f^{\alpha_n - 1}(x_n)$$
+> $$ 
+> f(x_1) , f'(x_1) , \dots , f^{\alpha_1 - 1}(x_1)
+> $$
+> $$ 
+> f(x_2) , f'(x_2) , \dots , f^{\alpha_2 - 1}(x_2)
+> $$
+> $$ 
+> \vdots \qquad\qquad \vdots
+> $$
+> $$ 
+> f(x_n) , f'(x_n) , \dots , f^{\alpha_n - 1}(x_n)
+> $$
 > Construct a simple and easy-to-calculate function p(x) that satisfies the following conditions:
- $$ p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1$$
+> $$ 
+> p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1
+> $$
 > The above problem is called the interpolation problem. $ x_1 , x_2 , \dots , x_n $ is called interpolation nodes.
 > $p(x)$ is called an interpolation function of $f(x)$ with respect to the nodes group, and the condition is called the interpolation condition.
 
@@ -45,7 +55,9 @@ It is understood geometrically, as shown in the figure below:
 
 $p(x)$ is an interpolated polynomial function of $f(x)$ that we calculate and passes through the given pairs of data: 
 
-$$ \{ (x_1,f(x_1) , (x_2,f(x_2)) , \dots , (x_n,f(x_n)) \}$$
+$$ 
+\{ (x_1,f(x_1) , (x_2,f(x_2)) , \dots , (x_n,f(x_n)) \}
+$$
 
 In this way, if there are new data points $x_{n+1}$ , p(x) is substituted directly to predict what the specific value should be.
 
