@@ -72,15 +72,21 @@ Suppose $f(x)$ is an unknown or complex function defined on the interval $[a,b]$
 
 The goal is to find a function 
 
-$$ p(x) = \sum_{k=1}^n c_k\varphi_k(x)$$ 
+$$ 
+p(x) = \sum_{k=1}^n c_k\varphi_k(x)
+$$ 
 
 in a simple function class:
 
-$$ Span \{\varphi_1,\varphi_2,\dots,\varphi_n\} \subset C[a,b]$$
+$$ 
+Span \{\varphi_1,\varphi_2,\dots,\varphi_n\} \subset C[a,b]
+$$
 
 that satisfies the condition:
 
-$$ p(x_i) = f(x_i), \quad i =1,2,\dots,n $$
+$$ 
+p(x_i) = f(x_i), \quad i =1,2,\dots,n 
+$$
 
 That is, at a given point, $p(x)$ coincides with $f(x)$.
 
