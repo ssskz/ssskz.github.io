@@ -30,12 +30,12 @@ We first introduce the basic definition and interpolation format of interpolatio
 
 
 > Let the function value and derivative of the function be known at n points of mutual difference
-> $$ f(x_1) , f'(x_1) , \dots , f^{\alpha_1 - 1}(x_1)$$
-> $$ f(x_2) , f'(x_2) , \dots , f^{\alpha_2 - 1}(x_2)$$
-> $$ \vdots \qquad\qquad \vdots$$
-> $$ f(x_n) , f'(x_n) , \dots , f^{\alpha_n - 1}(x_n)$$
+ $$ f(x_1) , f'(x_1) , \dots , f^{\alpha_1 - 1}(x_1)$$
+ $$ f(x_2) , f'(x_2) , \dots , f^{\alpha_2 - 1}(x_2)$$
+ $$ \vdots \qquad\qquad \vdots$$
+ $$ f(x_n) , f'(x_n) , \dots , f^{\alpha_n - 1}(x_n)$$
 > Construct a simple and easy-to-calculate function p(x) that satisfies the following conditions:
-> $$ p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1$$
+ $$ p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1$$
 > The above problem is called the interpolation problem. $ x_1 , x_2 , \dots , x_n $ is called interpolation nodes.
 > $p(x)$ is called an interpolation function of $f(x)$ with respect to the nodes group, and the condition is called the interpolation condition.
 
@@ -71,6 +71,25 @@ that satisfies the condition:
 $$ p(x_i) = f(x_i), \quad i =1,2,\dots,n $$
 
 That is, at a given point, $p(x)$ coincides with $f(x)$.
+
+When we see the structure as: $ p_n(x) = \sum_{k=1}^n c_k\varphi_k(x)$, it can be imagined that we can use the solution method of the system of linear equations to solve.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Highlights
 
 *This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
