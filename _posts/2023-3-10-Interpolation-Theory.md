@@ -43,12 +43,34 @@ It is understood geometrically, as shown in the figure below:
 
 <img src="https://ssskz.github.io/materials/插值理论/interpolation_1.png" width="50%">
 
-do not use `{{` anywhere in your math. use `{ {` instead. Jekyll will parse that as liquid tags
+$p(x)$ is an interpolated polynomial function of $f(x)$ that we calculate and passes through the given pairs of data: 
 
-do not use `x_1` in inline math, write that as `x _ 1`. Jekyll will parse that as italic.
+$$ \{ (x_1,f(x_1) , (x_2,f(x_2)) , \dots , (x_n,f(x_n)) \}$$
 
-{% endraw %}
+In this way, if there are new data points $x_{n+1}$ , p(x) is substituted directly to predict what the specific value should be.
 
+In simple terms, the basic idea of interpolation is:
+
+
+1. Conditions that need to be met for a simple function class base
+2. Give a specific function base
+3. Calculate the coefficients
+
+Suppose $f(x)$ is an unknown or complex function defined on the interval $[a,b]$, but the function value of the function at the point of difference $ x_1 , x_2 , \dots , x_n $ is known : $ f(x_1) , f(x_2) , \dots , f(x_n) $
+
+The goal is to find a function 
+
+$$ p(x) = \sum_{k=1}^n c_k\varphi_k(x)$$ 
+
+in a simple function class:
+
+$$ Span \{\varphi_1,\varphi_2,\dots,\varphi_n\} \subset C[a,b]$$
+
+that satisfies the condition:
+
+$$ p(x_i) = f(x_i), \quad i =1,2,\dots,n $$
+
+That is, at a given point, $p(x)$ coincides with $f(x)$.
 # Highlights
 
 *This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
@@ -139,10 +161,6 @@ So I prefer using HTML tags like this:
 
 ------
 
-1. This ordered list
-   1. sub item
-2. This is as well
-3. It can keep going
 
 ------
 
