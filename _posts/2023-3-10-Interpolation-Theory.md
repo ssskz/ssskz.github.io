@@ -29,9 +29,17 @@ The interpolation method plays an important role in discrete data processing, ap
 We first introduce the basic definition and interpolation format of interpolation, and then introduce three polynomial interpolation methods, namely Lagrange interpolation, Newton interpolation, and Hermite interpolation.
 
 
-> This is a quote block
->
-> > This is a quote block in side another
+> Let the function value and derivative of the function be known at n points of mutual difference
+> $$ f(x_1) , f'(x_1) , \dots , f^{\alpha_1 - 1}(x_1)$$
+> $$ f(x_2) , f'(x_2) , \dots , f^{\alpha_2 - 1}(x_2)$$
+> $$ \vdots \qquad\qquad \vdots$$
+> $$ f(x_n) , f'(x_n) , \dots , f^{\alpha_n - 1}(x_n)$$
+> Construct a simple and easy-to-calculate function p(x) that satisfies the following conditions:
+> $$ p^{(\mu_i)}(x_i) = f^{(\mu_i)}(x_i) , i = 1,2,\dots,n;  \mu_i = 0,1,\dots,\alpha_i-1$$
+> The above problem is called the interpolation problem. $ x_1 , x_2 , \dots , x_n $ is called interpolation nodes.
+> $p(x)$ is called $f(x)$ as an interpolation function with respect to the node group, and the condition is called the interpolation condition.
+
+It is understood geometrically, as shown in the figure below:
 
 <img src="https://ssskz.github.io/materials/插值理论/interpolation_1.png" width="50%">
 
