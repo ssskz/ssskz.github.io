@@ -92,10 +92,46 @@ That is, at a given point, $p(x)$ coincides with $f(x)$.
 
 When we see the structure as: $ p_n(x) = \sum_{k=1}^n c_k\varphi_k(x)$, it can be imagined that we can use the solution method of the system of linear equations to solve.
 
+Then the interpolation problem is equivalent to solving a system of equations:
 
+$$ 
+p(x_i) = \sum_{k=1}^n c_k\varphi_k(x_i) = f(x_i), \quad i =1,2,\dots,n 
+$$
 
+$$
+\left(\begin{array}{cccc}
+\varphi_1\left(x_1\right) & \varphi_2\left(x_1\right) & \cdots & \varphi_n\left(x_1\right) \\
+\varphi_1\left(x_2\right) & \varphi_2\left(x_2\right) & \cdots & \varphi_n\left(x_2\right) \\
+\vdots & \vdots & \ddots & \vdots \\
+\varphi_1\left(x_n\right) & \varphi_2\left(x_n\right) & \cdots & \varphi_n\left(x_n\right)
+\end{array}\right)\left(\begin{array}{c}
+c_1 \\
+c_2 \\
+\vdots \\
+c_n
+\end{array}\right)=\left(\begin{array}{c}
+f\left(x_1\right) \\
+f\left(x_2\right) \\
+\vdots \\
+f\left(\x_n\right)
+\end{array}\right)
+$$
 
+But we all know that a system of linear equations does not necessarily have a solution, and certain conditions need to be met:
 
+> The Haar condition for the existence of solutions
+> Let $\varphi_1(x), \varphi_2(x), \cdots, \varphi_n(x)$ are the functions on $[a, b]$ , and for any n distinct points $x_1, x_2, \cdots, x_n$ on the interval $[a, b]$ , determinant:
+> $$
+> \left|\begin{array}{cccc}
+> \varphi_1\left(x_1\right) & \varphi_2\left(x_1\right) & \cdots & \varphi_n\left(x_1\right) \\
+> \varphi_1\left(x_2\right) & \varphi_2\left(x_2\right) & \cdots & \varphi_n\left(x_2\right) \\
+> \vdots & \vdots & \ddots & \vdots \\
+> \varphi_1\left(x_n\right) & \varphi_2\left(x_n\right) & \cdots & \varphi_n\left(x_n\right)
+> \end{array}\right| \neq 0
+> $$
+> Then we call $\varphi_1(x), \varphi_2(x), \cdots, \varphi_n(x)$ satisfy the Haar condition on the interval $[a, b]$. 
+
+ 
 
 
 
