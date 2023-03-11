@@ -9,29 +9,31 @@ categories: High-Performance-Computing
 description: Theory about Lagrange interpolation, Newtonian interpolation and Hermite interpolation.
 ---
 
-# Careful!
+Many problems in scientific computing require calculating the function value of function $y = f(x)$. But calculations are sometimes not so simple:
 
-Don't use `[]` in YAML front matter. 
 
-Use `\newline` instead of `\\` in inline math. 
+- Since the computer hardware system can only provide four operations and logical operations such as addition, subtraction, multiplication, and division, the vast majority of functions cannot be directly calculated by computers.
 
-`\substack` is a very useful command.
+- Sometimes although the expression of a function is known, the calculation of the value of the function cannot be done by a finite number of four operations
 
-`<img src="" width=80%>` will be rendered by typora but Jekyll only renders `<img src="" width="80%">`
+- Some functions, although they exist, can only give their function values at discrete points, but cannot give their analytic expressions
 
-Display math must have extra black lines above and below like this.
+Therefore, it is necessary to construct an approximate function for the function $y = f(x)$ that is easy to calculate on the computer, and use the approximate function instead of the function $y = f(x)$ for numerical operations, which is the numerical approximation problem.
 
-```markdown
-some normal text
+# Interpolation
 
-$$
-E=mc^2
-$$
+The interpolation method is a simple but important method in numerical analysis, which can be used to calculate the approximate function of the function value at a finite point, and then calculate the value of the function at other points.
 
-Some more text
-```
+The interpolation method plays an important role in discrete data processing, approximate representation of functions, numerical differentiation, numerical integration, and the generation of curves and surfaces.
 
-{% raw %}
+We first introduce the basic definition and interpolation format of interpolation, and then introduce three polynomial interpolation methods, namely Lagrange interpolation, Newton interpolation, and Hermite interpolation.
+
+
+> This is a quote block
+>
+> > This is a quote block in side another
+
+<img src="https://ssskz.github.io/materials/插值理论/interpolation_1.png" width="50%">
 
 do not use `{{` anywhere in your math. use `{ {` instead. Jekyll will parse that as liquid tags
 
@@ -57,9 +59,6 @@ You can mix them like [*this*](https://bit.ly), [`this`](https://bit.ly), **[thi
 
 # Blocks
 
-> This is a quote block
->
-> > This is a quote block in side another
 
 ```python
  import numpy as np
@@ -125,13 +124,6 @@ So I prefer using HTML tags like this:
 
 # Lists
 
-- This is unordered list
-  - sub item
-    - subsub item
-      - subsubsub item
-        - subsubsubsub ...
-
-------
 
 - List can have multiple lines
 
