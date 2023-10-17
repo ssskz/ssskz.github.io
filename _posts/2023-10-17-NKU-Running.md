@@ -70,6 +70,5 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 
 <img src="https://ssskz.github.io/about/Run_7.jpg" width="88%" >
 
-<div align='center'>
-    <font color="#7e0c6e">允公允能，日新月异</font>
-</div>
+
+<center> <font color="#7e0c6e">允公允能，日新月异</font> </center>
