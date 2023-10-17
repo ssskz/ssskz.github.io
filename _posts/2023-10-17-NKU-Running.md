@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: nku-running
 categories: Markdown
-description: This is about Nankai University's 104th Anniversary Running Event, hosted by **NKRunning Club** and **NKU SMS**.
+description: This is about Nankai University's 104th Anniversary Running Event, hosted by **NKRunning Club** and [NKU SMS](https://math.nankai.edu.cn).
 ---
 
 # Medal
