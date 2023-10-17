@@ -17,7 +17,9 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 </figure>
 
 <center>
+
 ![caption](https://ssskz.github.io/about/Run_1.jpg)![caption](https://ssskz.github.io/about/Run_1.jpg)
+
 </center>
 
 # Highlights
