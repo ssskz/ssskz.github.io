@@ -59,3 +59,16 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 | 刘冠绮                           |            2120220257            |                       物理科学学院 |
 | 李佳茵                           |            2311945            |                       新闻与传播学院 |
 
+# Tribute
+
+<font color=#7e0c6e>南面百城</font>
+
+​<font color=#7e0c6e>开物成务</font>
+
+​<font color=#7e0c6e>大辂椎轮</font>
+
+​<font color=#7e0c6e>学优才赡</font>
+
+<img src="https://ssskz.github.io/about/Run_7.jpg" width="88%" >
+
+<font color=#7e0c6e>允公允能，日新月异</font>
