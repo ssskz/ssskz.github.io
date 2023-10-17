@@ -16,6 +16,10 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
     <img src="https://ssskz.github.io/about/Run_2.jpg"/>
 </figure>
 
+<center>
+![caption](https://ssskz.github.io/about/Run_1.jpg)![caption](https://ssskz.github.io/about/Run_1.jpg)
+</center>
+
 # Highlights
 
 *This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
