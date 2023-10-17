@@ -11,19 +11,17 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 
 # Medal
 
-<center class="half">
-    <img src="https://ssskz.github.io/about/Run_1.jpg" width="40%" >
-    <img src="https://ssskz.github.io/about/Run_2.jpg" width="40%" >
-</center>
+<img src="https://ssskz.github.io/about/Run_1.jpg">
+
+<img src="https://ssskz.github.io/about/Run_2.jpg">
 
 # Mark
 
-<center class="half">
-    <img src="https://ssskz.github.io/about/Run_3.jpg" width="40%" >
-    <img src="https://ssskz.github.io/about/Run_5.jpg" width="40%" >
-</center>
+<img src="https://ssskz.github.io/about/Run_3.jpg">
 
-<img src="https://ssskz.github.io/about/Run_4.jpg" >
+<img src="https://ssskz.github.io/about/Run_4.jpg">
+
+<img src="https://ssskz.github.io/about/Run_5.jpg" >
 
 *This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
 
