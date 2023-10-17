@@ -11,23 +11,23 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 
 # Medal
 
-<img src="https://ssskz.github.io/about/Run_1.jpg" width="80%" >
+<img src="https://ssskz.github.io/about/Run_1.jpg" width="88%" >
 
 ------
 
-<img src="https://ssskz.github.io/about/Run_2.jpg" width="80%" >
+<img src="https://ssskz.github.io/about/Run_2.jpg" width="88%" >
 
 # Mark
 
-<img src="https://ssskz.github.io/about/Run_3.jpg" width="80%" >
+<img src="https://ssskz.github.io/about/Run_3.jpg" width="88%" >
 
 ------
 
-<img src="https://ssskz.github.io/about/Run_4.jpg" width="80%" >
+<img src="https://ssskz.github.io/about/Run_4.jpg" width="88%" >
 
 ------
 
-<img src="https://ssskz.github.io/about/Run_5.jpg" width="80%" >
+<img src="https://ssskz.github.io/about/Run_5.jpg" width="88%" >
 
 # Roster
 
