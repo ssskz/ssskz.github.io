@@ -12,8 +12,8 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 # Careful!
 
 <center class="half">
-    <img src="https://ssskz.github.io/about/Run_1.jpg" width="49%" >
-    <img src="https://ssskz.github.io/about/Run_2.jpg" width="49%" >
+    <img src="https://ssskz.github.io/about/Run_1.jpg" width="40%" >
+    <img src="https://ssskz.github.io/about/Run_2.jpg" width="40%" >
 </center>
 
 # Highlights
