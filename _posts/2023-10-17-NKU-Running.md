@@ -11,6 +11,12 @@ description: This is a sample post testing and demonstrating all the markdown sy
 
 # Careful!
 
+<figure class="half">
+    <img src="https://ssskz.github.io/about/Run_1.png">
+    <img src="https://ssskz.github.io/about/Run_2.png">
+</figure>
+
+
 Don't use `[]` in YAML front matter. 
 
 Use `\newline` instead of `\\` in inline math. 
