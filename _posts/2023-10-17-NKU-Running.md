@@ -63,11 +63,17 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 
 <div align='center'>
    <font color="#7e0c6e">南面百城</font>
+</div>
 
+<div align='center'>
 ​   <font color="#7e0c6e">开物成务</font>
+</div>
 
+<div align='center'>
 ​   <font color="#7e0c6e">大辂椎轮</font>
+</div>
 
+<div align='center'>
 ​   <font color="#7e0c6e">学优才赡</font>
 </div>
 
