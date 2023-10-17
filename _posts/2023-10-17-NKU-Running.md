@@ -4,12 +4,10 @@ commentable: true
 Edit: 2023-10-17
 mathjax: true
 mermaid: true
-tags: sample
+tags: nku-running
 categories: Markdown
 description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://ssskz.github.io).
 ---
-
-This page's comment is disabled, scroll down to see.
 
 # Careful!
 
