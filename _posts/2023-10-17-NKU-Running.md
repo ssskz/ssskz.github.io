@@ -11,11 +11,9 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 
 # Careful!
 
-<center>
-<figure class="half">
-    <img src="https://ssskz.github.io/about/Run_1.jpg" width="45% />
-    <img src="https://ssskz.github.io/about/Run_2.jpg" width="45% />
-</figure>
+<center class="half">
+    <img src="https://ssskz.github.io/about/Run_1.jpg" width="49%" >
+    <img src="https://ssskz.github.io/about/Run_2.jpg" width="49%" >
 </center>
 
 # Highlights
