@@ -1,5 +1,5 @@
 ---
-title: NKU Running
+title: NKU 104th Anniversary Running
 commentable: true
 Edit: 2023-10-17
 mathjax: true
