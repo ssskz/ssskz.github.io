@@ -1,10 +1,10 @@
 ---
-title: NKU Running
+title: Sample Post - Markdown Syntax
 commentable: true
-Edit: 2023-10-17
+Edit: 2022-10-21
 mathjax: true
 mermaid: true
-tags: nku-running
+tags: sample
 categories: Markdown
 description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://ssskz.github.io).
 ---
@@ -84,6 +84,34 @@ You can mix them as well, like
 # Other Elements
 
 This is horizontal line
+
+------
+
+# Math Blocks
+
+This is inline math $\sum_{i=1}^{N} i $. This is display math.
+$$
+\sum_{i=1}^{N} i 
+$$
+The extra empty line matters, or you will end up with
+$$
+\sum_{i=1}^{N} i
+$$
+[Mathjax](http://docs.mathjax.org/en/latest/tex.html) syntax is like latex. You cannot use `\usepackge`, but you can use `\newcommand` like this 
+$$
+\newcommand{\NewOp}[2]{\lbrace{#1}\mid \otimes{#2}\rbrace}
+$$
+And `\NewOp` will be available in all later math blocks, whether inline $\NewOp{x}{y}$ or display
+$$
+\NewOp{x}{y}
+$$
+Be **very careful** with the vertical bar symbol and underscore in math. If you use it like $|x|\ge 0$, $|0|=0$, or like $\lbrace x | x\gt 0\rbrace$, you will get a bunch of gibberish.
+
+Use `\vert` in $\vert x\vert\ge 0$, $\vert 0\vert=0$. Use `\mid` in $\lbrace x \mid x\gt 0$ instead.
+
+Also using underscores like this $x_1$, $x_2$, $x_{c_2}^{c_3}$, with $y_{c_2}^{c_3}$, will be processed as _this_.
+
+Wrap underscores with whitespaces like this $x _ 1$, $x _ 2$, $x _ {c _ 2}^{c _ 3}$, with $y _ {c _ 2}^{c _ 3 }$.
 
 # Images
 
