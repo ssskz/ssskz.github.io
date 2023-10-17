@@ -6,7 +6,7 @@ mathjax: true
 mermaid: true
 tags: nku-running
 categories: Markdown
-description: This is a sample post testing and demonstrating all the markdown syntaxes. In the description you can also use markdowns to do *A* **B** ***C*** and `D` and other stuff like a [link](https://ssskz.github.io).
+description: This is about Nankai University's 104th Anniversary Running Event, hosted by **NKRunning Club** and **NKU SMS**.
 ---
 
 # Careful!
