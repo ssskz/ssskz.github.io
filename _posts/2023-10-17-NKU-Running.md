@@ -62,14 +62,14 @@ description: This is about Nankai University's 104th Anniversary Running Event, 
 # Tribute
 
 <div align='center'>
-   <font color=#7e0c6e>南面百城</font>
-​   <font color=#7e0c6e>开物成务</font>
-​   <font color=#7e0c6e>大辂椎轮</font>
-​   <font color=#7e0c6e>学优才赡</font>
+   <font color="#7e0c6e">南面百城</font>
+​   <font color="#7e0c6e">开物成务</font>
+​   <font color="#7e0c6e">大辂椎轮</font>
+​   <font color="#7e0c6e">学优才赡</font>
 </div>
 
 <img src="https://ssskz.github.io/about/Run_7.jpg" width="88%" >
 
 <div align='center'>
-    <font color=#7e0c6e> 允公允能，日新月异 </font>
+    <font color="#7e0c6e">允公允能，日新月异</font>
 </div>
