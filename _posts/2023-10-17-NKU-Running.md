@@ -1,5 +1,5 @@
 ---
-title: Sample Post - Markdown Syntax
+title: NKU Running
 commentable: true
 Edit: 2023-10-17
 mathjax: true
