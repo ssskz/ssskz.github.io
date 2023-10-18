@@ -5,6 +5,7 @@ Edit: 2023-3-10
 mathjax: true
 mermaid: true
 tags: numerical-analysis
+status: Paused
 categories: High-Performance-Computing
 description: Theory about Lagrange interpolation, Newtonian interpolation and Hermite interpolation.
 ---
