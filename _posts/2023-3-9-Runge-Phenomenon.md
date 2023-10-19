@@ -4,6 +4,7 @@ commentable: true
 Edit: 2023-3-9
 mathjax: true
 mermaid: true
+status: Paused
 tags: numerical-analysis
 categories: High-Performance-Computing
 description: Lagrange interpolation, Newtonian interpolation and Hermite interpolation of Runge functions.
