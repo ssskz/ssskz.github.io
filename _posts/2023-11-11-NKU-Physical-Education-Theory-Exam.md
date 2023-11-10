@@ -1,7 +1,7 @@
 ---
-title: NKU Physical Education Theory Exam
+title: Physical Education Theory
 commentable: true
-Edit: 2023-10-17
+Edit: 2023-11-11
 mathjax: true
 mermaid: true
 status: Writing
