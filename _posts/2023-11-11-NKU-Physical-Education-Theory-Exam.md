@@ -12,7 +12,7 @@ description: This is about the contents of Nankai University's Physical Educatio
 
 # Exams
 
-<p><a href="https://ssskz.github.io/materials/金融期权/金融期权01.pdf" target="_blank">[PDF] 2022-2023秋季学期金融期权第一次作业 </a></p>
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[乒乓球].xls" target="_blank">[PDF] 南开大学体育理论考试——乒乓球专项 </a></p>
 
 <p><a href="https://ssskz.github.io/materials/金融期权/金融期权02.pdf" target="_blank">[PDF] 2022-2023秋季学期金融期权第二次作业 </a></p>
 
