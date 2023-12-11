@@ -10,6 +10,10 @@ categories: Markdown
 description: This is about the contents of Nankai University's Physical Education Theory Exam.
 ---
 
+# Guideline
+
+体育课理论考试分为两部分，第一部分为体育专项知识，第二部分为体育通识知识；使用时请下载体育通识知识题库，以及对应的专项知识题库。
+
 # General education examination
 
 <p><a href="https://ssskz.github.io/materials/体育理论考试/体育通识.xls" target="_blank">[XLS] 南开大学体育理论考试——体育通识 </a></p>
