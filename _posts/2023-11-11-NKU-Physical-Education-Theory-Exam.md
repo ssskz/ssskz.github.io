@@ -5,7 +5,7 @@ Edit: 2023-11-11
 mathjax: true
 mermaid: true
 status: Writing
-tags: nku-running
+tags: nku-running nku-sms
 categories: Markdown
 description: This is about the contents of Nankai University's Physical Education Theory Exam.
 ---
