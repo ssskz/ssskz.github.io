@@ -12,7 +12,7 @@ description: This is about the contents of Nankai University's Physical Educatio
 
 # Guideline
 
-体育课理论考试分为两部分，第一部分为体育专项知识，第二部分为体育通识知识；使用时请下载体育通识知识题库，以及对应的专项知识题库。
+体育课理论考试分为两部分，第一部分为**体育专项知识**，第二部分为**体育通识知识**；使用时请下载体育通识知识题库，以及对应的专项知识题库。
 
 # General education examination
 
