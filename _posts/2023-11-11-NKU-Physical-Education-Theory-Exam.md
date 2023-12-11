@@ -37,3 +37,23 @@ description: This is about the contents of Nankai University's Physical Educatio
 <p><a href="https://ssskz.github.io/materials/体育理论考试/[瑜伽].xls" target="_blank">[XLS] 南开大学体育理论考试——瑜伽专项 </a></p>
 
 <p><a href="https://ssskz.github.io/materials/体育理论考试/[篮球].xls" target="_blank">[XLS] 南开大学体育理论考试——篮球专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[网球].xls" target="_blank">[XLS] 南开大学体育理论考试——网球专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[羽毛球].xls" target="_blank">[XLS] 南开大学体育理论考试——羽毛球专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[足球].xls" target="_blank">[XLS] 南开大学体育理论考试——足球专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[跆拳道].xls" target="_blank">[XLS] 南开大学体育理论考试——跆拳道专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋初级班.xls" target="_blank">[XLS] 南开大学体育理论考试——中国象棋初级 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋高级班.xls" target="_blank">[XLS] 南开大学体育理论考试——中国象棋高级 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋保健班.xls" target="_blank">[XLS] 南开大学体育理论考试——中国象棋保健 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋初级班.xls" target="_blank">[XLS] 南开大学体育理论考试——国际象棋初级 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋高级班.xls" target="_blank">[XLS] 南开大学体育理论考试——国际象棋高级 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/中国象棋保健班.xls" target="_blank">[XLS] 南开大学体育理论考试——国际象棋保健 </a></p>
