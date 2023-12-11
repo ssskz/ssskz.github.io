@@ -10,7 +10,11 @@ categories: Markdown
 description: This is about the contents of Nankai University's Physical Education Theory Exam.
 ---
 
-# Exams
+# General education examination
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/体育通识.xls" target="_blank">[XLS] 南开大学体育理论考试——体育通识 </a></p>
+
+# Subject Education Exams
 
 <p><a href="https://ssskz.github.io/materials/体育理论考试/[乒乓球].xls" target="_blank">[XLS] 南开大学体育理论考试——乒乓球专项 </a></p>
 
