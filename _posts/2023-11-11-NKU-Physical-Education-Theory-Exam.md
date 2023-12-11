@@ -24,3 +24,16 @@ description: This is about the contents of Nankai University's Physical Educatio
 
 <p><a href="https://ssskz.github.io/materials/体育理论考试/[击剑].xls" target="_blank">[XLS] 南开大学体育理论考试——击剑专项 </a></p>
 
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[啦啦操].xls" target="_blank">[XLS] 南开大学体育理论考试——啦啦操专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[太极拳].xls" target="_blank">[XLS] 南开大学体育理论考试——太极拳专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[武术套路].xls" target="_blank">[XLS] 南开大学体育理论考试——武术套路专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[武术散打].xls" target="_blank">[XLS] 南开大学体育理论考试——武术散打专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[游泳].xls" target="_blank">[XLS] 南开大学体育理论考试——游泳专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[瑜伽].xls" target="_blank">[XLS] 南开大学体育理论考试——瑜伽专项 </a></p>
+
+<p><a href="https://ssskz.github.io/materials/体育理论考试/[篮球].xls" target="_blank">[XLS] 南开大学体育理论考试——篮球专项 </a></p>
