@@ -1,5 +1,5 @@
 ---
-title: Financial Engineering
+title: Investment Studies
 commentable: true
 Edit: 2023-12-25
 mathjax: true
