@@ -31,6 +31,6 @@ description: Sharing of learning materials (homework and exams) about **Differen
 
 # Final Exam
 
-<p><a href="https://www.zhangwp.com/files/new-exams/2020-2021%20微分流形期末教学质量检测.pdf" target="_blank">[PDF] 2020-2021秋季学期微分流形期末考试试卷</a></p>
+<p><a href="https://ssskz.github.io/materials/微分流形/2020-2021微分流形期末教学质量检测.pdf" target="_blank">[PDF] 2020-2021秋季学期微分流形期末考试试卷</a></p>
 
 <p><a href="https://ssskz.github.io/materials/微分流形/2022—2023 学年第一学期本科生微分流形期末大作业.pdf" target="_blank">[PDF] 2022-2023秋季学期微分流形期末考试试卷</a></p>
