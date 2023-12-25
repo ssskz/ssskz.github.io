@@ -11,4 +11,4 @@ description: Sharing of learning materials (homework and exams) about **Computat
 
 # Exam
 
-<p><a href="https://ssskz.github.io/materials/计算几何/计算几何2021-2022第二学期期末考试A卷.pdf" target="_blank">[PDF] 2021-2022秋季学期计算几何期末考试试卷</a></p>
+<p><a href="https://ssskz.github.io/materials/计算几何/计算几何2021-2022第二学期期末考试A卷.pdf" target="_blank">[PDF] 2021-2022春季学期计算几何期末考试试卷</a></p>
