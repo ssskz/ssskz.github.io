@@ -1,15 +1,14 @@
 ---
-title: Runge Phenomenon
+title: Natural Language Processing
 commentable: true
-Edit: 2023-3-9
+Edit: 2024-5-19
 mathjax: true
 mermaid: true
 status: Paused
-tags: numerical-analysis
-categories: High-Performance-Computing
-description: Lagrange interpolation, Newtonian interpolation and Hermite interpolation of Runge functions.
+tags: python
+categories: Artificial-Intelligence
+description: NLP, which is short for Natural Language Processing, is an important branch of artificial intelligence.
 ---
-
 
 # Careful!
 
