@@ -9,6 +9,8 @@ categories: Artificial-Intelligence
 description: Transformer is a deep learning model architecture for NLP and other sequence-to-sequence tasks.
 ---
 
+# What is Transformer
+
 Transformer是一种用于自然语言处理（NLP）和其他序列到序列（sequence-to-sequence）任务的深度学习模型架构，它在2017年由Vaswani等人首次提出。
 
 Transformer架构引入了**自注意力机制**（self-attention mechanism），这是一个关键的创新，使其在处理序列数据时表现出色。
@@ -21,3 +23,7 @@ Transformer架构引入了**自注意力机制**（self-attention mechanism）�
 > - **位置编码（Positional Encoding）**：由于Transformer没有内置的序列位置信息，它需要额外的位置编码来表达输入序列中单词的位置顺序。
 > - **残差连接和层归一化（Residual Connections and Layer Normalization）**：这些技术有助于减轻训练过程中的梯度消失和爆炸问题，使模型更容易训练。
 > - **编码器和解码器（Encoder and Decoder）**：Transformer通常包括一个编码器用于处理输入序列和一个解码器用于生成输出序列，这使其适用于序列到序列的任务，如机器翻译。
+
+## The structure of Transformer
+
+<img src="https://ssskz.github.io/materials/自然语言处理/transformer.png" width="70%">
