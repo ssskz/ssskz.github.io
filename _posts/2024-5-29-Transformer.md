@@ -26,4 +26,10 @@ Transformer架构引入了**自注意力机制**（self-attention mechanism）�
 
 ## The structure of Transformer
 
+假设Nx = 6，即Encoder block由6个encoder堆叠而成，图中的一个框代表的是一个encoder的内部结构，一个Encoder是由Multi-Head Attention和全连接神经网络Feed Forward Network构成。如下图所示：
+
 <img src="https://ssskz.github.io/materials/自然语言处理/transformer.png" width="70%">
+
+简略结构如下（每一个编码器都对应上图的一个encoder结构）：
+
+<img src="https://ssskz.github.io/materials/自然语言处理/encoder.png" width="70%">
