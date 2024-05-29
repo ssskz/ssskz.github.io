@@ -33,3 +33,7 @@ Transformer架构引入了**自注意力机制**（self-attention mechanism）�
 简略结构如下（每一个编码器都对应上图的一个encoder结构）：
 
 <img src="https://ssskz.github.io/materials/自然语言处理/encoder.png" width="70%">
+
+Transformer的编码组件是由6个编码器叠加在一起组成的，解码器同样如此。所有的编码器在结构上是相同的，但是它们之间并没有共享参数。编码器和解码器的简略结构如下：
+
+<img src="https://ssskz.github.io/materials/自然语言处理/decoder.png" width="70%">
