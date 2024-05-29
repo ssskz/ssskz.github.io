@@ -24,7 +24,7 @@ Transformer架构引入了**自注意力机制**（self-attention mechanism）�
 > - **残差连接和层归一化（Residual Connections and Layer Normalization）**：这些技术有助于减轻训练过程中的梯度消失和爆炸问题，使模型更容易训练。
 > - **编码器和解码器（Encoder and Decoder）**：Transformer通常包括一个编码器用于处理输入序列和一个解码器用于生成输出序列，这使其适用于序列到序列的任务，如机器翻译。
 
-## The structure of Transformer
+## The Structure of Transformer
 
 假设Nx = 6，即Encoder block由6个encoder堆叠而成，图中的一个框代表的是一个encoder的内部结构，一个Encoder是由Multi-Head Attention和全连接神经网络Feed Forward Network构成。如下图所示：
 
@@ -38,4 +38,8 @@ Transformer的编码组件是由6个编码器叠加在一起组成的，解码�
 
 <img src="https://ssskz.github.io/materials/自然语言处理/decoder.png" width="70%">
 
-从编码器输入的句子首先会经过一个自注意力层，这一层帮助编码器在对每个单词编码的时候时刻关注句子的其它单词。解码器中的解码注意力层的作用是关注输入句子的相关部分，类似于seq2seq的注意力。原结构中使用到的是多头注意力机制（Multi-Head Attention），我们先从基础——自注意力机制开始讲起：
+从编码器输入的句子首先会经过一个自注意力层，这一层帮助编码器在对每个单词编码的时候时刻关注句子的其它单词。解码器中的解码注意力层的作用是关注输入句子的相关部分，类似于seq2seq的注意力。
+
+在Transformer的原结构中使用到的是**多头注意力机制（Multi-Head Attention）**，我们先从基础————自注意力机制开始。
+
+## Self-Attention Mechanism
