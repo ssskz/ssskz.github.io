@@ -37,3 +37,5 @@ Transformer架构引入了**自注意力机制**（self-attention mechanism）�
 Transformer的编码组件是由6个编码器叠加在一起组成的，解码器同样如此。所有的编码器在结构上是相同的，但是它们之间并没有共享参数。编码器和解码器的简略结构如下：
 
 <img src="https://ssskz.github.io/materials/自然语言处理/decoder.png" width="70%">
+
+从编码器输入的句子首先会经过一个自注意力层，这一层帮助编码器在对每个单词编码的时候时刻关注句子的其它单词。解码器中的解码注意力层的作用是关注输入句子的相关部分，类似于seq2seq的注意力。原结构中使用到的是多头注意力机制（Multi-Head Attention），我们先从基础——自注意力机制开始讲起：
