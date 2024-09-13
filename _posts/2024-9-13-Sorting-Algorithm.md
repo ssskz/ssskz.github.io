@@ -19,24 +19,26 @@ description: Sorting is an important operation in computer programming, we will 
 - **时间复杂度**：一个算法执行所消耗的时间。
 - **空间复杂度**：运行完一个算法所需的内存大小。
 
+# 十大排序算法
+
 <img src="https://ssskz.github.io/materials/Sorting/sorting.png" width="30%">
 
-# 插入排序
+## 插入排序
 
-# 选择排序
+##选择排序
 
-# 冒泡排序
+## 冒泡排序
 
-# 快速排序
+## 快速排序
 
-# 堆排序
+## 堆排序
 
-# 基数排序
+## 基数排序
 
-# 归并排序
+## 归并排序
 
-# 计数排序
+## 计数排序
 
-# 希尔排序
+## 希尔排序
 
-# 桶排序
+## 桶排序
