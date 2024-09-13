@@ -19,6 +19,8 @@ description: Sorting is an important operation in computer programming, we will 
 - **时间复杂度**：一个算法执行所消耗的时间。
 - **空间复杂度**：运行完一个算法所需的内存大小。
 
+<img src="https://ssskz.github.io/materials/Sorting/sorting.png" width="30%">
+
 # 插入排序
 
 # 选择排序
