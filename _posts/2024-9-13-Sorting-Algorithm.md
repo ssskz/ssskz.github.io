@@ -6,5 +6,5 @@ mathjax: true
 mermaid: true
 tags: C++ Algorithm
 categories: Computer-Science
-description: NLP, which is short for Natural Language Processing, is an important branch of artificial intelligence.
+description: Sorting is an important operation in computer programming, and its function is to rearrange any sequence of data elements (or records) into a keyword-ordered sequence.
 ---
