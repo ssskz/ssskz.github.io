@@ -28,6 +28,8 @@ description: Sorting is an important operation in computer programming, we will 
 
 <img src="https://ssskz.github.io/materials/Sorting/sorting.png" width="60%">
 
+各个算法的复杂度如下所示：
+
 <img src="https://ssskz.github.io/materials/Sorting/O.png" width="60%">
 
 ## 插入排序
