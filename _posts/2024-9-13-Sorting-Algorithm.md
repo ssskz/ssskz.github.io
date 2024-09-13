@@ -48,6 +48,12 @@ description: Sorting is an important operation in computer programming, we will 
 5. 将新元素插入到该位置后；
 6. 重复步骤2~5。
 
+### 算法演示
+
+### 代码实现
+
+### 算法分析
+
 ## 选择排序
 
 ## 冒泡排序
