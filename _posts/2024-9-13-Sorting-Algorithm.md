@@ -32,9 +32,9 @@ description: Sorting is an important operation in computer programming, we will 
 
 <img src="https://ssskz.github.io/materials/Sorting/O.png" width="60%">
 
-## 插入排序
+## 插入排序 Insertion Sort
 
-插入排序是一种十分简单的排序方法，其思想也是很自然的。
+插入排序的算法描述是一种简单直观的排序算法。它的工作原理是通过构建有序序列，对于未排序数据，在已排序序列中从后向前扫描，找到相应位置并插入。
 比如，在玩打牌时，该如何整理那些牌呢？一种简单的方法就是一张一张来，将每一张牌插入到其他已经有序的牌中的适当位置。
 当我们给无序数组做排序的时候，为了要插入元素，我们需要腾出空间，将其余所有元素在插入之前都向右移动一位，这种算法我们称之为插入排序。
 
