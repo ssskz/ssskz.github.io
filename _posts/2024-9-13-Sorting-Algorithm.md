@@ -6,8 +6,13 @@ mathjax: true
 mermaid: true
 tags: C++ Algorithm
 categories: Computer-Science
-description: Sorting is an important operation in computer programming, and its function is to rearrange any sequence of data elements (or records) into a keyword-ordered sequence.
+description: Sorting is an important operation in computer programming, we will introduce ten sorting algorithms.
 ---
+# 术语解释
+
+有些人可能不知道什么是稳定排序、原地排序、时间复杂度、空间复杂度，我这里先简单解释一下：
+
+
 
 # 插入排序
 
