@@ -6,5 +6,5 @@ mathjax: true
 mermaid: true
 tags: python
 categories: Artificial-Intelligence
-description: Sorting is an important operation in computer programming, we will introduce ten sorting algorithms.
+description: Deep learning, or representation learning, is a branch or subfield of machine learning.
 ---
