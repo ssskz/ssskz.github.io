@@ -8,7 +8,9 @@ tags: python
 categories: Artificial-Intelligence
 description: Deep learning, or representation learning, is a branch or subfield of machine learning.
 ---
-本文我们主要介绍深度学习(Deep Learning)与机器学习(Machine Learning)，以及它们在人工智能(Artificial Intelligence)这一更广泛的范畴中的应用。
+深度学习（Deep Learning）是机器学习（Machine Learning）和人工智能（Artificial Intelligence）研究的最新趋势之一，是当今最流行的科学研究趋势之一。深度学习方法为AI的发展带来了革命性的进步，新的深度学习技术正在不断更新迭代，几乎每天都在有重大突破。
+
+正是由于深度学习的爆炸式发展，导致了它的进展很难被跟进，特别是对于Beginner，因此在本文中，我们将简要讨论深度学习的发展历程及其近年来的进展。
 
 首先我们先通过以下定义来了解ML、DL、AI以及当下火热的AIGC：
 
