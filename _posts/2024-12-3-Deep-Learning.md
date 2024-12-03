@@ -24,12 +24,16 @@ description: Deep learning, or representation learning, is a branch or subfield 
 - **生成式人工智能**：是人工智能的一部分，可使用深度学习等技术生成新的内容。 例如，可以使用生成式 AI 创建图像、文本或音频。 这些模型利用大量预先训练的知识来生成此内容。
 
 <img src="https://ssskz.github.io/materials/DL/DL_ML.png" width="70%">
-
+DLvsML.jpg
 # DL vs ML
 
 在机器学习中，我们需要告知算法如何使用更多信息（例如通过执行特征提取）做出准确的预测。
 
 在深度学习中，得益于人工神经网络结构，算法可以了解如何通过自身的数据处理做出准确预测。
+
+<img src="https://ssskz.github.io/materials/DL/DLvsML.jpg" width="70%">
+
+下表展示的是ML和DL的不同之处：
 
 |  | 机器学习 | 深度学习 |
 | :---------------------- | :---------------------: | :---------------------: |
@@ -39,6 +43,8 @@ description: Deep learning, or representation learning, is a branch or subfield 
 | 学习方法                         |            将学习过程划分为较小的步骤，然后将每个步骤的结果合并成一个输出           |       通过端到端地解决问题来完成学习过程        |
 | 执行时间                         |            花费几秒到几小时的相对较少时间进行训练           |             通常需要很长的时间才能完成训练，因为深度学习算法涉及到许多层          |
 | 输出                         |            输出通常是一个数值，例如评分或分类           |             输出可以采用多种格式，例如文本、评分或声音             |
+
+
 
 # Neural Networks
 
