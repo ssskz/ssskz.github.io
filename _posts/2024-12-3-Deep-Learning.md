@@ -39,3 +39,9 @@ description: Deep learning, or representation learning, is a branch or subfield 
 | 学习方法                         |            将学习过程划分为较小的步骤。 然后，将每个步骤的结果合并成一个输出           |       通过端到端地解决问题来完成学习过程        |
 | 执行时间                         |            花费几秒到几小时的相对较少时间进行训练           |             通常需要很长的时间才能完成训练，因为深度学习算法涉及到许多层             |
 | 输出                         |            输出通常是一个数值，例如评分或分类           |             输出可以采用多种格式，例如文本、评分或声音             |
+
+# Neural Networks
+
+# Application of DL
+
+# Transfer Learning
