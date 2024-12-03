@@ -4,7 +4,7 @@ commentable: true
 Edit: 2024-9-13
 mathjax: true
 mermaid: true
-tags: C++ Algorithm
+tags: C++ algorithm
 categories: Computer-Science
 description: Sorting is an important operation in computer programming, we will introduce ten sorting algorithms.
 ---
