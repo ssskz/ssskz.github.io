@@ -214,3 +214,5 @@ if __name__ == '__main__':
 The acquisition of the iFLYTEK API and key for converting audio to text is shown in the figure as follows.
 
 <img src="https://ssskz.github.io/materials/DL/xunfei.png" width="70%">
+
+_This article is forked from [here](https://blog.csdn.net/qq_38652677/article/details/124591907?spm=1001.2014.3001.5506)._
