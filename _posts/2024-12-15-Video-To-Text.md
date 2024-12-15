@@ -210,3 +210,7 @@ if __name__ == '__main__':
     api = RequestApi(appid="***", secret_key="***", upload_file_path=r"my.mp3")
     api.all_api_request()
 ```
+
+The acquisition of the iFLYTEK API and key for converting audio to text is shown in the figure as follows.
+
+<img src="https://ssskz.github.io/materials/DL/xunfei.png" width="70%">
