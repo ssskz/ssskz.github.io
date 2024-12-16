@@ -75,7 +75,6 @@ class SliceIdGenerator:
         self.__ch = ch
         return self.__ch
 
-
 class RequestApi(object):
     def __init__(self, appid, secret_key, upload_file_path):
         self.appid = appid
@@ -161,10 +160,7 @@ class RequestApi(object):
                     "filename": self.gene_params(api_upload).get("slice_id"),
                     "content": content
                 }
-                response = self.gene_request(api_upload,
-                                             data=self.gene_params(api_upload, taskid=taskid,
-                                                                   slice_id=sig.getNextSliceId()),
-                                             files=files)
+                response = self.gene_request(api_upload, data=self.gene_params(api_upload, taskid=taskid, slice_id=sig.getNextSliceId()), files=files)
                 if response.get('ok') != 0:
                     print('upload slice fail, response: ' + str(response))
                     return False
